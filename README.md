@@ -1,4 +1,4 @@
-# garbage_detection
+# Garbage Classification using **Machine Learning**
 Garbage Classification using openCV and CNN model
 
 ## IDE:
