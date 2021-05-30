@@ -1,5 +1,5 @@
 # Garbage Classification using **Machine Learning**
-Garbage Classification using openCV and CNN model
+Garbage Classification using openCV and DenseNet-121 model
 
 ## IDE:
 `Pycharm`
