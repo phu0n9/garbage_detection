@@ -1,5 +1,5 @@
 # Garbage Classification using **Machine Learning**
-Garbage Classification using openCV and DenseNet-121 model
+Garbage Classification using openCV, DenseNet-121 model and CNN model
 ## Source:
 Find the source code at: https://drive.google.com/drive/folders/17y2wW0Zmc-gzPUKfxKw7YQVqh6GcXvIK?usp=sharing
 
